@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KFACBT_Toolkit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b66daa5dc25d0ecc5fb987d2243c8139ccb59dee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc835d612918bf7f1d9c53543e5083e94b8393e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("KFACBT_Toolkit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KFACBT_Toolkit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
