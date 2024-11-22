@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gytxt\\source\\repos\\KFACBT_Toolkit\\KFACBT_Toolkit\\KFACBT_Toolkit.csproj": {}
+    "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\KFACBT_Toolkit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gytxt\\source\\repos\\KFACBT_Toolkit\\KFACBT_Toolkit\\KFACBT_Toolkit.csproj": {
+    "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\KFACBT_Toolkit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gytxt\\source\\repos\\KFACBT_Toolkit\\KFACBT_Toolkit\\KFACBT_Toolkit.csproj",
+        "projectUniqueName": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\KFACBT_Toolkit.csproj",
         "projectName": "KFACBT_Toolkit",
-        "projectPath": "C:\\Users\\gytxt\\source\\repos\\KFACBT_Toolkit\\KFACBT_Toolkit\\KFACBT_Toolkit.csproj",
+        "projectPath": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\KFACBT_Toolkit.csproj",
         "packagesPath": "C:\\Users\\gytxt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gytxt\\source\\repos\\KFACBT_Toolkit\\KFACBT_Toolkit\\obj\\",
+        "outputPath": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

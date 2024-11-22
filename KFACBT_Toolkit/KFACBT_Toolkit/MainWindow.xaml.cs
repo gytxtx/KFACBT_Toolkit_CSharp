@@ -23,11 +23,18 @@ namespace KFACBT_Toolkit
     public partial class MainWindow : Window
     {
 
-        NavigationPages.Home home = new NavigationPages.Home(); //运行程序之前初始化页面
+        // NavigationPages.Home home = new NavigationPages.Home(); //运行程序之前初始化页面
 
         public MainWindow()
         {
             InitializeComponent();
+
+            // 设置窗口标题
+            Title = GlobalVariables.Application_Name;
+
+            // 默认加载页面
+            MainFrame.Navigate(typeof(NavigationPages.Home));
+
             new ToastContentBuilder()
                 .AddText("欢迎使用" + " " + GlobalVariables.Application_Name + "。")
                 .AddText("窗口的初始化已完成。")
