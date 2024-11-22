@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{845D60B8-A440-49BD-B492-9D009F81CFC1}|KFACBT_Toolkit\\KFACBT_Toolkit.csproj|d:\\github\\kfacbt_toolkit_csharp\\kfacbt_toolkit\\kfacbt_toolkit\\navigationpages\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{845D60B8-A440-49BD-B492-9D009F81CFC1}|KFACBT_Toolkit\\KFACBT_Toolkit.csproj|solutionrelative:kfacbt_toolkit\\navigationpages\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{845D60B8-A440-49BD-B492-9D009F81CFC1}|KFACBT_Toolkit\\KFACBT_Toolkit.csproj|d:\\github\\kfacbt_toolkit_csharp\\kfacbt_toolkit\\kfacbt_toolkit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{845D60B8-A440-49BD-B492-9D009F81CFC1}|KFACBT_Toolkit\\KFACBT_Toolkit.csproj|solutionrelative:kfacbt_toolkit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{845D60B8-A440-49BD-B492-9D009F81CFC1}|KFACBT_Toolkit\\KFACBT_Toolkit.csproj|d:\\github\\kfacbt_toolkit_csharp\\kfacbt_toolkit\\kfacbt_toolkit\\navigationpages\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{845D60B8-A440-49BD-B492-9D009F81CFC1}|KFACBT_Toolkit\\KFACBT_Toolkit.csproj|solutionrelative:kfacbt_toolkit\\navigationpages\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{845D60B8-A440-49BD-B492-9D009F81CFC1}|KFACBT_Toolkit\\KFACBT_Toolkit.csproj|d:\\github\\kfacbt_toolkit_csharp\\kfacbt_toolkit\\kfacbt_toolkit\\navigationpages\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{845D60B8-A440-49BD-B492-9D009F81CFC1}|KFACBT_Toolkit\\KFACBT_Toolkit.csproj|solutionrelative:kfacbt_toolkit\\navigationpages\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{845D60B8-A440-49BD-B492-9D009F81CFC1}|KFACBT_Toolkit\\KFACBT_Toolkit.csproj|d:\\github\\kfacbt_toolkit_csharp\\kfacbt_toolkit\\kfacbt_toolkit\\navigationpages\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,26 +54,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Settings.xaml.cs",
               "DocumentMoniker": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\NavigationPages\\Settings.xaml.cs",
               "RelativeDocumentMoniker": "KFACBT_Toolkit\\NavigationPages\\Settings.xaml.cs",
               "ToolTip": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\NavigationPages\\Settings.xaml.cs",
               "RelativeToolTip": "KFACBT_Toolkit\\NavigationPages\\Settings.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABIwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:48:37.591Z"
+              "WhenOpened": "2024-11-22T05:48:37.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Settings.xaml",
               "DocumentMoniker": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\NavigationPages\\Settings.xaml",
               "RelativeDocumentMoniker": "KFACBT_Toolkit\\NavigationPages\\Settings.xaml",
               "ToolTip": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\NavigationPages\\Settings.xaml",
               "RelativeToolTip": "KFACBT_Toolkit\\NavigationPages\\Settings.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-22T05:35:41.656Z"
+              "WhenOpened": "2024-11-22T05:35:41.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -84,7 +86,8 @@
               "ToolTip": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\NavigationPages\\Menu.xaml",
               "RelativeToolTip": "KFACBT_Toolkit\\NavigationPages\\Menu.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-22T05:35:38.746Z"
+              "WhenOpened": "2024-11-22T05:35:38.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -95,7 +98,8 @@
               "ToolTip": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\KFACBT_Toolkit.csproj",
               "RelativeToolTip": "KFACBT_Toolkit\\KFACBT_Toolkit.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-21T16:58:34.022Z"
+              "WhenOpened": "2024-11-21T16:58:34.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\MainWindow.xaml",
               "RelativeDocumentMoniker": "KFACBT_Toolkit\\MainWindow.xaml",
@@ -123,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "KFACBT_Toolkit\\MainWindow.xaml.cs",
@@ -143,7 +147,8 @@
               "ToolTip": "D:\\GitHub\\KFACBT_Toolkit_CSharp\\KFACBT_Toolkit\\KFACBT_Toolkit\\NavigationPages\\Home.xaml",
               "RelativeToolTip": "KFACBT_Toolkit\\NavigationPages\\Home.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-22T05:15:28.716Z"
+              "WhenOpened": "2024-11-22T05:15:28.716Z",
+              "EditorCaption": ""
             }
           ]
         }

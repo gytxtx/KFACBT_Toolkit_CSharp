@@ -53,7 +53,7 @@ namespace KFACBT_Toolkit.NavigationPages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/KFACBT_Toolkit;component/navigationpages/menu.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/KFACBT_Toolkit;V1.0.0.0;component/navigationpages/menu.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\NavigationPages\Menu.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

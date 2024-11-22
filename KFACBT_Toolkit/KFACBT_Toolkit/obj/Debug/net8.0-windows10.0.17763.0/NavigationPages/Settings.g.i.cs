@@ -80,7 +80,7 @@ namespace KFACBT_Toolkit.NavigationPages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/KFACBT_Toolkit;component/navigationpages/settings.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/KFACBT_Toolkit;V1.0.0.0;component/navigationpages/settings.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\NavigationPages\Settings.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
